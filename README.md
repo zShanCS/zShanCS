@@ -51,8 +51,8 @@ const zshan = {
 |---|---|
 | 🌾 [**rice-phenology**](https://github.com/zShanCS/rice-phenology) | drone multispectral imagery → crop growth stage & field health |
 | 🧠 [**zos**](https://github.com/zShanCS/zos) | a tiny operating system, built to learn how one works |
-| 🧵 [**Threaded-File-System**](https://github.com/zShanCS/Threaded-File-System) | logical FS with paging + multithreading |
-| 🛒 [**zShop**](https://github.com/zShanCS/zShop) | e-commerce backend on FastAPI |
+| 🏪 [**OnlineStore**](https://github.com/zShanCS/OnlineStore) | store management system for online shopping + retail counters, in Java |
+| 📖 [**Dictionary**](https://github.com/zShanCS/Dictionary) | a C++ dictionary with meanings, synonyms and antonyms |
 | 📚 [**RevOn**](https://github.com/zShanCS/RevOn) | multilingual book-review app in Flutter |
 | 🧭 [**tickup**](https://github.com/zShanCS/tickup) | trip management, React + Python API |
 
